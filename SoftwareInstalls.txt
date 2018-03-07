@@ -1,0 +1,14 @@
+Software install after MBP clean install
+---Arq
+---Iterm
+---Composer
+---Homebrew
+---Git
+---Netbeans
+---Sequel Pro
+---Filezilla
+---TextWrangler
+---Cloudapp
+---FireFox
+---Chrome
+---MAMP
