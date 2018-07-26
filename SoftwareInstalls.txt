@@ -13,3 +13,5 @@ Software install after MBP clean install
 ---Chrome
 ---MAMP
 ---PHPUnit
+---PHPStorm
+---Atom
